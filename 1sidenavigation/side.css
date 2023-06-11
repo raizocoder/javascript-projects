@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+}
+.mysidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: rgb(49, 107, 158);
+  transition: 0.5s ease;
+  overflow-x: hidden;
+}
+.mysidenav a {
+  text-transform: uppercase;
+  text-decoration: none;
+  color: black;
+  display: block;
+}
+
+.mysidenav a:hover {
+  color: white;
+}
+
+.mysidenav .closeside {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 50px;
+  margin-left: 50px;
+}
