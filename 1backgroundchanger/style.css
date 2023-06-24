@@ -1,0 +1,35 @@
+.btn {
+  display: flex;
+  justify-content: space-evenly;
+}
+button {
+  font-size: 20px;
+  padding: 8px;
+  border-radius: 10px;
+  cursor: pointer;
+  outline: none;
+}
+.white {
+  background-color: #ffffff;
+}
+.yellow {
+  background-color: #ffff00;
+}
+.fusion {
+  background-color: #ff00ff;
+}
+.green {
+  background-color: #49d949;
+}
+.blue {
+  background-color: #6363e1;
+}
+h1 {
+  font-size: 80px;
+  text-align: center;
+}
+h2 {
+    font-size: 30px;
+    text-align: center;
+  }
+
