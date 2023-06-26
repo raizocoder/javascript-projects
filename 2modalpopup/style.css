@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+    background-color: rgb(134, 131, 126);
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  position:relative;
+}
+.popup {
+  background-color: fuchsia;
+  max-width: 500px;
+  padding: 20px;
+  height: 250px;
+  text-align: center;
+  position: absolute;
+  transform: scale(0);
+  transition: 0.5s transform ease;
+  border-radius: 10px;
+}
+.close {
+  font-size: 18px;
+  margin: 50px;
+  cursor: pointer;
+  border-radius: 4px;
+  padding: 5px;
+}
+.open{
+    font-size: 30px;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.open:hover{
+  background-color: rgb(175, 202, 224);
+}
+.pop{
+    transform: scale(1);
+}
