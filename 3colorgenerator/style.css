@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  text-align: center;
+  margin: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+button {
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 5px;
+  text-transform: uppercase;
+  cursor: pointer;
+  width: 200px;
+}
+button:hover {
+  background-color: azure;
+}
+input {
+  max-width: 500px;
+  min-height: 40px;
+  font-size: 20px;
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+  background-color: rgb(219, 214, 214);
+  border-radius: 15px;
+}
