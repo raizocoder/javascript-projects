@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+    background-color: rgb(167, 171, 171);
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+input {
+  text-align: center;
+  height: 50px;
+  max-width: 100px;
+  border-radius: 10px;
+  font-size: 30px;
+  margin: 10px;
+}
+.btns {
+  display: flex;
+}
+button {
+  font-size: 30px;
+  padding: 7px;
+  margin: 7px;
+  width: 100px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+button:hover{
+    background-color: beige;
+}
