@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.sections{
+    margin: 7px;
+}
+button{
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(161, 207, 207);
+}
+.content{
+    background-color: rgb(138, 138, 135);
+    height: 50px;
+    display: none;
+    transition: 0.5s;
+
+}
