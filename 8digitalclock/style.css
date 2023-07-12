@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: linear-gradient(
+    rgb(135, 185, 195),
+    rgb(132, 238, 181),
+    rgb(233, 100, 233)
+  );
+}
+.clock {
+  width: 500px;
+  text-align: center;
+  font-size: 60px;
+}
