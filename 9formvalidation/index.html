@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <script src="main.js" defer></script>
+    <title>Form Validation</title>
+  </head>
+  <body>
+    <div class="container">
+      <form action="" onsubmit="return validForm()">
+        <div class="user">
+          <input
+            type="text"
+            id="user"
+            placeholder="Username"
+            oninput="userValid()"
+          />
+          <span id="usererror"></span>
+        </div>
+
+        <div class="user">
+          <input
+            type="password"
+            id="pass"
+            placeholder="Password"
+            oninput="passValid()"
+            autocomplete=""
+          />
+          <span id="passerror"></span>
+        </div>
+        <div class="user">
+          <input
+            type="tel"
+            id="tel"
+            placeholder="Phone Number"
+            oninput="telValid()"
+          />
+          <span id="telerror"></span>
+        </div>
+
+        <div class="user">
+          <input
+            type="email"
+            id="email"
+            placeholder="Email"
+            oninput="emailValid()"
+          />
+          <span id="emailerror"></span>
+        </div>
+
+        <input type="submit" id="button" value="Submit" class="submitbtn" />
+      </form>
+    </div>
+  </body>
+</html>
