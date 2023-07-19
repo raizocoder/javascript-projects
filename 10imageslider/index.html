@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="index.css" />
+    <script src="index.js" defer></script>
+    <!-- <script src="main.js" defer></script> -->
+    <title>Image Sliders</title>
+  </head>
+  <body>
+    <h1>Image Slider</h1>
+    <div class="buttons">
+      <button class="arrow left" onclick="controler(-1)">&#8592;Prev</button>
+      <button class="arrow right" onclick="controler(1)" >&#8594;Next</button>
+    </div>
+    <div class="slide-container" id="slidee">
+      <div class="slider">
+        <img src="images/1.jpg.jpg" alt="" />
+        <div class="caption">Caption 1</div>
+      </div>
+
+      <div class="slider">
+        <img src="images/2.jpg.jpg" alt="" />
+        <div class="caption">Caption 2</div>
+      </div>
+
+      <div class="slider">
+        <img src="images/3.jpg.jpg" alt="" />
+        <div class="caption">Caption 3</div>
+      </div>
+    </div>
+  </body>
+</html>

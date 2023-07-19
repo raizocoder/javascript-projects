@@ -1,0 +1,36 @@
+what work is to  be done ?
+
+*first----- all the container which have images display none and only one image is shown on page load make function for it.
+
+solution------ by giving css display none all slider now only arrow icon show 
+next  this-----
+let flag =0; // show default 0 or after click left and right arrow, next and previous show slide
+
+function controler(x){
+  flag = flag + x; }-----
+  this function controls function values comes after click left comes -1 for previous and right comes 1  for next.
+
+
+*second----whenever the left and right arrow click then image slide and only image is shown at one time,make function for it.
+solution---- there is function slideshow() who works 2 execution first----- 
+for(let y of slides){
+    y.style.display = "none"// on function call on pageload first all slides display none 
+  }
+ slides[num].style.display ="block"//  and second on page load default show slide 0 
+and 2 execution below
+ 
+
+*third-----whenever the left arrow click at starting values goes 0 to -1 
+flag = flag + x------ 0 =0+(-1)
+equals to -1 ,then image goes blank page ,make function for it.
+solution-----------
+let slides = document.getElementsByClassName("slider");
+
+     if (num == slides.length){
+      flag= 0;
+      num = 0;// if flag values equals to slides length which is 3 comes in num and flag then 3 reset to 0
+     }
+     if (num < 0){
+        flag= slides.length -1;
+        num = slides.length -1 ; // if flag values goes below 0 ie -1 then reset to values equals to        slides length -1 ie array length total 3 [0,1,2] so 3-1= 2 then second index no[2] slide show 
+       }
