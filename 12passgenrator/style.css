@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 22px;
+  background-color: rgba(68, 182, 231, 0.64);   
+}
+.passField {
+  width: 400px;
+  height: 80px;
+  font-size: 30px;
+  color: black;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
+}
+.cobybtn {
+  font-size: 30px;
+  cursor: pointer;
+  margin: 10px;
+  border-radius: 10px;
+  border: none;
+}
+.genbtn {
+  font-size: 30px;
+  border-radius: 10px;
+  cursor: pointer;
+  border: none;
+}
