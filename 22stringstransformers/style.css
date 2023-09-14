@@ -1,0 +1,44 @@
+input {
+  width: 100%;
+  max-width: 700px;
+  height: 35px;
+  background-color: aquamarine;
+  outline: none;
+  border: none;
+  padding: 10px;
+  font-size: 20px;
+}
+.input {
+  display: flex;
+  justify-content: center;
+}
+.transformers {
+  padding: 10px;
+}
+.textcontent{
+  position: relative;
+}
+.texts {
+  font-size: 20px;
+  background-color: cadetblue;
+  padding: 10px;
+  min-height: 30px;
+}
+.head {
+  position: absolute;
+  left: 12px;
+  top: -14px; 
+  background-color: black;
+  color: white; 
+}
+
+.capitalizecase {
+  text-transform: capitalize;
+  &::first-letter {
+    text-transform:lowercase;
+  }
+}
+.pascalcase {
+  text-transform: capitalize;
+ 
+}
