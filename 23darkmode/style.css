@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+
+  & label {
+    font-size: 44px;
+    font-weight: bold;
+    color: rgb(255, 0, 195);
+  }
+  & input {
+    height: 50px;
+    width: 50px;
+    cursor: pointer;
+    accent-color: rgb(255, 0, 195);
+  }
+}
+h1 {
+  color: rgb(255, 0, 195);
+  text-align: center;
+}
+.dark {
+  background-color: rgba(0, 0, 0, 0.818);
+}
+p {
+  font-size: 30px;
+  color: rgb(255, 0, 195);
+  padding: 20px;
+}
