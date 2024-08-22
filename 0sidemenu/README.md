@@ -8,7 +8,7 @@ This project is a simple side menu implemented using HTML, CSS, and JavaScript. 
 
 ## Table of Contents
 
-- [Demo](#demo)
+- [Demo](https://side-menu-rohit.netlify.app/)
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
