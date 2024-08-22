@@ -15,7 +15,6 @@ This project is a simple side menu implemented using HTML, CSS, and JavaScript. 
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Customization](#customization)
-- [License](#license)
 
 ## Demo
 
@@ -74,9 +73,6 @@ You can easily customize this project to fit your needs:
 - **Update colors**: Change the `background-color` and `color` properties in `style.css`.
 - **Add more links**: Add more `<a>` tags inside the `.menu` div in `index.html`.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
