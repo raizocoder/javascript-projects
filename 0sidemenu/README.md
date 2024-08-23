@@ -3,7 +3,7 @@ Here is a README file tailored for your simple side menu project built using HTM
 ---
 
 # Side Menu Project
-# photo <img src="/Screenshot 2024-08-23 124000">
+# photo (<img src="/Screenshot 2024-08-23 124000">)
 
 This project is a simple side menu implemented using HTML, CSS, and JavaScript. It demonstrates the use of basic web development techniques to create a responsive, slide-out menu that can be toggled open and closed.
 
