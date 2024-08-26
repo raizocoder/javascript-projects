@@ -12,6 +12,11 @@ body{
     text-align: center;
 
 }
+.container{
+    max-width: 500px;
+    margin: 15px;
+    
+}
 .qoute-text{
     background-color: #fff;
     max-width: 500px;
