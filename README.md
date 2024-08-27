@@ -43,10 +43,6 @@ To run any project locally:
    ```
 3. Open the `index.html` file in your browser.
 
-## 🙌 Contributing
-
-If you have any suggestions, improvements, or new project ideas, feel free to open an issue or submit a pull request. Collaboration is welcome!
-
 ## 📧 Contact
 
 If you have any questions or just want to connect, feel free to reach out to me via email rohitchamoli3@gmail.com
