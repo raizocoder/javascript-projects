@@ -14,6 +14,9 @@ body {
     rgb(233, 100, 233)
   );
 }
+h1{
+  font-size: 96%;
+}
 .clock {
   width: 500px;
   text-align: center;
