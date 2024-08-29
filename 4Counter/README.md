@@ -1,7 +1,3 @@
-Here's a README file for your "Counter App" project, which includes sections for features, usage instructions, and a brief description of the project.
-
----
-
 # 🕒 Counter App
 # DEMO -- https://counter-rohit.netlify.app/
 
