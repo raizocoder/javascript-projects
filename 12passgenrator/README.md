@@ -1,7 +1,3 @@
-Here's a README file for your **Password Generator** project. This README provides an overview of the application, features, setup instructions, and how to use the application.
-
----
-
 # 🔐 Password Generator
 # Demo 👁️ https://password-generator-rohit.netlify.app/
 
