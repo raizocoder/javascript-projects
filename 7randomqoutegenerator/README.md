@@ -1,9 +1,5 @@
-Here's a README file for your "Random Quote Generator" project, incorporating symbols and icons to make it more visually appealing:
-
----
-
 # 📜 Random Quote Generator
-# 👁️  https://random-qoute-generator-rohit.netlify.app/
+# DEMO 👁️  https://random-qoute-generator-rohit.netlify.app/
 
 The **Random Quote Generator** is a simple web application that displays random quotes with their authors, fetched from an API. It's a fun project that demonstrates the basics of JavaScript, asynchronous programming with `fetch`, and dynamic content updates in the DOM.
 
