@@ -1,4 +1,6 @@
 #  Side Menu Project
+<img src="./sidemenu.png" alt="Logo" width="300" />
+
 
 This project is a simple side menu implemented using HTML, CSS, and JavaScript. It demonstrates the use of basic web development techniques to create a responsive, slide-out menu that can be toggled open and closed.
 
