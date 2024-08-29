@@ -1,5 +1,5 @@
 # ⏱️ Stopwatch
-# 👁️ https://stopwatch-rohit.netlify.app/
+# DEMO 👁️ https://stopwatch-rohit.netlify.app/
 
 This **Stopwatch** project is a simple and interactive application built with HTML, CSS, and JavaScript. It allows users to measure time in hours, minutes, and seconds with intuitive start, stop, and reset controls.
 
