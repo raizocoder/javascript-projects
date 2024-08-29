@@ -1,9 +1,5 @@
-Here's a README file for your **Digital Clock** project. The README is formatted with symbols and icons to make it more engaging and informative.
-
----
-
 # 🕰️ Digital Clock
-# 👁️ https://digital-clock-rohit.netlify.app/
+# DEMO 👁️ https://digital-clock-rohit.netlify.app/
 
 The **Digital Clock** is a simple web-based application that displays the current time in hours, minutes, and seconds, along with the AM/PM format. It automatically updates every second to reflect the current local time.
 
