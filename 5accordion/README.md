@@ -1,7 +1,3 @@
-Here's a README file for your "Accordion" project. It includes sections for features, usage instructions, and a brief description of the project.
-
----
-
 # 📑 Accordion
 # DEMO --- https://accordion-rohit.netlify.app/
 
