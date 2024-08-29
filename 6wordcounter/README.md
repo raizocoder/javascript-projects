@@ -1,7 +1,3 @@
-Here's a README file for your "Word Counter" project:
-
----
-
 # 📜 Word Counter
 # DEMO👁️ https://word-counter-rohit.netlify.app/
 
