@@ -12,13 +12,15 @@
   background-color: rgba(68, 182, 231, 0.64);   
 }
 .passField {
-  width: 400px;
+  width: 100%;
+  max-width: 400px;
   height: 80px;
   font-size: 30px;
   color: black;
   padding: 10px;
   border-radius: 10px;
   text-align: center;
+  margin: 9px;
 }
 .cobybtn {
   font-size: 30px;
@@ -32,4 +34,5 @@
   border-radius: 10px;
   cursor: pointer;
   border: none;
+  margin: 10px;
 }
