@@ -1,7 +1,3 @@
-Here is a README file for your **Image Slider** project. This README provides an overview of the project's features, setup instructions, and functionality.
-
----
-
 # 🖼️ Image Slider
 # DEMO 👁️ https://image-slider-rohit.netlify.app/
 This **Image Slider** project is a simple HTML, CSS, and JavaScript application that allows users to view and navigate through a series of images. The slider includes "Previous" and "Next" buttons to control the image transition.
