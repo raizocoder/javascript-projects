@@ -1,7 +1,3 @@
-Here's a README file for your **Stopwatch** project, which outlines the features, setup instructions, and functionality of the application.
-
----
-
 # ⏱️ Stopwatch
 # 👁️ https://stopwatch-rohit.netlify.app/
 
