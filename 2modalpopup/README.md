@@ -1,6 +1,3 @@
-Here's a README file for your "Modal Popup" project, including symbols and highlighted features to enhance its readability and appeal.
-
-
 # 🪟 Modal Popup
 #DEMO--- https://modal-popup-rohit.netlify.app/
 
