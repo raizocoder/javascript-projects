@@ -1,7 +1,3 @@
-Here's a README file for your "Random Color Generator" project. It includes sections for features, usage instructions, and a brief description of how the project works.
-
----
-
 # 🎨 Random Color Generator
 
 Welcome to the **Random Color Generator** project! This simple web application generates a random RGB color and updates both the input field and the background color of the page. It's a fun and practical example of using JavaScript for dynamic web design.
