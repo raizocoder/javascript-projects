@@ -1,8 +1,4 @@
-Here is a README file tailored for your simple side menu project built using HTML, CSS, and JavaScript:
-
----
-
-# Side Menu Project
+#  Side Menu Project
 
 This project is a simple side menu implemented using HTML, CSS, and JavaScript. It demonstrates the use of basic web development techniques to create a responsive, slide-out menu that can be toggled open and closed.
 
