@@ -1,7 +1,3 @@
-Here is a README file for your **Form Validation** project. The README is structured to provide a clear understanding of the project's features, usage, structure, and functionality.
-
----
-
 # 📝 Form Validation
 # DEMO 👁️ https://form-validation-rohit.netlify.app/
 
