@@ -1,7 +1,3 @@
-Here's a README file for your "Calculator" project:
-
----
-
 # 🧮 Calculator
 # DEMO 👁️  https://calculator1-rohit.netlify.app/
 
