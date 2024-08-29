@@ -1,6 +1,6 @@
 # 🖼️ Image Slider
 # DEMO 👁️ https://image-slider-rohit.netlify.app/
-<img src="/slider.png" alt="Logo" width="200" />
+<img src="./slider.png" alt="Logo" width="200" />
 
 This **Image Slider** project is a simple HTML, CSS, and JavaScript application that allows users to view and navigate through a series of images. The slider includes "Previous" and "Next" buttons to control the image transition.
 
