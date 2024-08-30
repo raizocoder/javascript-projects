@@ -1,8 +1,9 @@
 # 🎨 Random Color Generator
 
 Welcome to the **Random Color Generator** project! This simple web application generates a random RGB color and updates both the input field and the background color of the page. It's a fun and practical example of using JavaScript for dynamic web design.
-<img src="./colorgenerator.png" alt="Logo" width="300" />
 ## DEMO --  https://random-color-generator-rohit.netlify.app/
+<img src="./colorgenerator.png" alt="Logo" width="300" />
+
 ## 🚀 Features
 
 - **🔄 Generate Random Colors**: Click the "Generate" button to produce a new random RGB color.
