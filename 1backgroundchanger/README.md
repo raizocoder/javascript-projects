@@ -1,5 +1,7 @@
 # 🌈 Background Color Changer
 #DEMO 👁️ https://background-color-changer-rohit.netlify.app/
+
+
 <img src="./bgchanger.png" alt="Logo" width="400" />
 
 Welcome to the **Background Color Changer** project! This simple project allows users to change the background color of the webpage by clicking different buttons. It's a great example of how to use JavaScript for DOM manipulation to enhance user interaction.
