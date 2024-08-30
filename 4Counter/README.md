@@ -1,6 +1,6 @@
 # 🕒 Counter App
-<img src="./counter.png" alt="Logo" width="300" />
 # DEMO -- https://counter-rohit.netlify.app/
+<img src="./counter.png" alt="Logo" width="300" />
 
 The **Counter App** is a simple web application that allows users to increment, decrement, and reset a counter value. It's a straightforward example of JavaScript functionality for basic user interactions.
 
