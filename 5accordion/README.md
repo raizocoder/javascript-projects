@@ -1,6 +1,6 @@
 # 📑 Accordion
-<img src="./accordion.png" alt="Logo" width="400" />
 # DEMO --- https://accordion-rohit.netlify.app/
+<img src="./accordion.png" alt="Logo" width="400" />
 
 The **Accordion** project is a simple web application that demonstrates an accordion-style collapsible content. Each section can be expanded or collapsed by clicking its corresponding button, making it a useful UI component for displaying content dynamically.
 
