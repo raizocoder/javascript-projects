@@ -1,4 +1,5 @@
 # 📜 Word Counter
+<img src="./wordcounter.png" alt="Logo" width="400" />
 # DEMO👁️ https://word-counter-rohit.netlify.app/
 
 The **Word Counter** project is a web application designed to count the number of letters and words in a given text input. It provides real-time feedback as users type, displaying the counts of both letters and words.
