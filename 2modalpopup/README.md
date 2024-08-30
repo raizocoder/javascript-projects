@@ -1,5 +1,7 @@
 # 🪟 Modal Popup
 #DEMO--- https://modal-popup-rohit.netlify.app/
+<img src="./modal.png" alt="Logo" width="300" />
+
 
 This **Modal Popup** project is a simple yet effective example of how to create and control a modal window using HTML, CSS, and JavaScript. The project demonstrates a smooth transition effect for opening and closing a modal popup on a webpage, providing a better user experience.
 
