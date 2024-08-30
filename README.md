@@ -45,7 +45,7 @@ To run any project locally:
 
 ## 📧 Contact
 
-If you have any questions or just want to connect, feel free to reach out to me via email rohitchamoli3@gmail.com
+If you have any questions or just want to connect, feel free to reach out to me via email ronykumar4@@gmail.com
 
 ---
 
