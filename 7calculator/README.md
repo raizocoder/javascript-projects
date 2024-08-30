@@ -1,4 +1,5 @@
 # 🧮 Calculator
+<img src="./calculator.png" alt="Logo" width="400" />
 # DEMO 👁️  https://calculator1-rohit.netlify.app/
 
 The **Calculator** project is a simple web-based calculator that performs basic arithmetic operations. This project demonstrates the use of HTML, CSS, and JavaScript to create a functional calculator with a user-friendly interface.
