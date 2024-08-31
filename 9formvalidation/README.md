@@ -1,5 +1,6 @@
 # 📝 Form Validation
 # DEMO 👁️ https://form-validation-rohit.netlify.app/
+<img src = "./formvalidation" width = "400px"/>
 
 This **Form Validation** project is a simple HTML and JavaScript-based form that validates user input in real-time. The form includes fields for a username, password, phone number, and email, and provides immediate feedback on the validity of the input.
 
