@@ -1,5 +1,6 @@
 # 🕰️ Digital Clock
 # DEMO 👁️ https://digital-clock-rohit.netlify.app/
+<img src = "./digitalclock.png" width = "400px"/>
 
 The **Digital Clock** is a simple web-based application that displays the current time in hours, minutes, and seconds, along with the AM/PM format. It automatically updates every second to reflect the current local time.
 
