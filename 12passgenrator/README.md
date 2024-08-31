@@ -1,5 +1,6 @@
 # 🔐 Password Generator
 # Demo 👁️ https://password-generator-rohit.netlify.app/
+<img src = "./password.png" width = "400px"/>
 
 The **Password Generator** is a web-based tool designed to create strong and secure passwords with customizable lengths. The user can generate random passwords and easily copy them to their clipboard.
 
