@@ -1,5 +1,6 @@
 # 🧮 BMI Calculator
 # DEMO 👁️ https://bmi-calculator-rohit.netlify.app/
+<img src = "./bmi.png" width = "400px"/>
 
 The **BMI Calculator** is a simple web-based tool that helps users calculate their Body Mass Index (BMI) based on their height and weight. The BMI value helps to determine if an individual is underweight, normal weight, overweight, or obese.
 
