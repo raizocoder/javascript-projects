@@ -1,6 +1,6 @@
 # ⏳ Countdown Timer
 # Demo 👁️ https://countdown-rohit.netlify.app/
-<img src= "./countdown.png" width = "400px" />
+<img src= "./Countdown.png" width = "400px" />
 
 This project is a simple countdown timer that counts down to **January 1, 2050**. The timer dynamically updates every second to display the remaining days, hours, minutes, and seconds until the specified date and time.
 
