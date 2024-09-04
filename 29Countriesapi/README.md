@@ -1,6 +1,6 @@
 # Countries Flag 🌍🏁
 # DEMO 👁️  https://countries-flag-rohit1.netlify.app/
-<img src ="./flag.png" width ="600px" />
+<img src ="./flag.png" width ="1000px" />
 
 A simple and interactive web application that allows users to explore and search for country information by filtering regions and searching by country name. The app displays the country flags, population, region, and capital for each country.
 
