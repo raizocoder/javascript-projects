@@ -1,7 +1,7 @@
 # Accordion Project
 # DEMO 👁️ https://accordion-rohit.netlify.app/
 
-<img src ="./accordion.png" width = "700px" />
+<img src ="./6accordion.png" width = "700px" />
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
