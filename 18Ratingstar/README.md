@@ -1,5 +1,6 @@
 ⭐⭐⭐⭐⭐# Rating System Project
 # DEMO 👁️ https://star-rating-rohit.netlify.app/
+<img src ="rating.png" width = "500px"/>
 
 This is a simple star rating system with emoji feedback, built using HTML, CSS, and JavaScript. Users can rate by selecting stars, and the corresponding emoji changes based on the rating. The project visually reflects user ratings, making it a fun and interactive way to collect feedback.
 
