@@ -36,9 +36,6 @@ This project is a filterable gallery that allows users to filter different items
 - **Java**: Filters items related to Java technologies.
 - **PHP**: Filters items related to PHP technologies.
 
-## Screenshots
-![Filter Gallery](./screenshots/filter-gallery.png)
-
 ## Installation
 1. **Clone the repository**:
    ```bash
