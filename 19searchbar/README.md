@@ -7,7 +7,6 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [How to Use](#how-to-use)
-- [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Project Structure](#project-structure)
 
@@ -28,9 +27,6 @@ This project demonstrates a simple search bar functionality that allows users to
 1. Clone or download the repository to your local machine.
 2. Open the `index.html` file in your browser.
 3. Start typing a name in the search bar. The list below will automatically filter the names based on your input.
-
-## Screenshots
-![Search Bar](./screenshots/search-bar.png)
 
 ## Installation
 1. **Clone the repository**:
