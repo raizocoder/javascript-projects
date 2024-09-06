@@ -1,5 +1,5 @@
 # 🌟 JavaScript Projects Repository
-# DEMO 👁️ https://30-javascript-projects.netlify.app/
+# DEMO 👁️ https://30-javascript-projects-rohit.netlify.app/
 <img src ="./jsprojects.png" width ="1000px" />
 # Owner - Rohit Kumar
 
