@@ -1,7 +1,6 @@
-Here's a README file tailored for your JavaScript projects repository, which showcases projects built from basic to advanced levels:
-
-```markdown
 # 🌟 JavaScript Projects Repository
+# DEMO 👁️ https://30-javascript-projects.netlify.app/
+<img src ="./jsprojects.png" width ="1000px" />
 # Owner - Rohit Kumar
 
 Welcome to my **JavaScript Projects** repository! This collection showcases various projects built using **Vanilla JavaScript** 🛠️, starting from basic to advanced levels. Each project represents a milestone in my learning journey, and I'm thrilled to share the knowledge and skills I've acquired along the way.
@@ -10,7 +9,6 @@ Welcome to my **JavaScript Projects** repository! This collection showcases vari
 
 - 🥉 **Basic Level Projects**: Getting started with fundamental JavaScript concepts and simple applications.
 - 🥈 **Intermediate Level Projects**: Diving deeper into more complex logic, DOM manipulation, and event handling.
-- 🥇 **Advanced Level Projects**: Tackling challenging projects that involve sophisticated JavaScript patterns, APIs, and more.
 
 ## 📚 What I Learned
 
