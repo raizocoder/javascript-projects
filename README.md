@@ -3,7 +3,7 @@
 <img src ="./jsprojects.png" width ="1000px" />
 # Owner - Rohit Kumar
 
-Welcome to my **JavaScript Projects** repository! This collection showcases various projects built using **Vanilla JavaScript** 🛠️, starting from basic to advanced levels. Each project represents a milestone in my learning journey, and I'm thrilled to share the knowledge and skills I've acquired along the way.
+Welcome to my **JavaScript Projects** repository! This collection showcases various projects built using **Vanilla JavaScript** 🛠️, starting from basic to intermediate levels. Each project represents a milestone in my learning journey, and I'm thrilled to share the knowledge and skills I've acquired along the way.
 
 ## 📂 Project Categories
 
