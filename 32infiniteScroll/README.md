@@ -33,6 +33,5 @@ This project demonstrates the implementation of an infinite scroll feature that 
 |-- index.html
 |-- script.js
 |-- README.md
-|-- /screenshots (add screenshots of the project here)
 
 
