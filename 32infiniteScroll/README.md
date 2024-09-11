@@ -1,6 +1,6 @@
 # Infinite Scroll with GitHub Users
 # 👁️ https://infinite-scroll-rohit.netlify.app/
-<img scr = "./scroll.png" width = "700px" />
+<img scr = "./scroll.png" width = "800px" />
 
 ## Table of Contents
 - [Overview](#overview)
